@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="30" />
   </a>
   <a href="https://spring.io/projects/spring-data-jpa">
-    <img src="https://img.shields.io/badge/Spring_Boot_JPA-6DB33F?style=flat&logo=springboot&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=springboot&logoColor=white" height="30" />
   </a>
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
